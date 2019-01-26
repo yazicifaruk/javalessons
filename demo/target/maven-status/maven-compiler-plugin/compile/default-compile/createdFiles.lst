@@ -1,0 +1,4 @@
+crudEx\demo\mainController\Controller.class
+crudEx\demo\DemoApplication.class
+crudEx\demo\model\Users.class
+crudEx\demo\Repo\UserRepository.class
